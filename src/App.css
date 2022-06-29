@@ -4,10 +4,6 @@
     font-family: 'Roboto', sans-serif;
 }
 
-html, body {
-    font-size: 18px;
-    background-color: #f5f6f7;
-}
 
 h1 {
     max-width: 940px;
@@ -18,7 +14,7 @@ h1 {
     margin: 40px 0;
 }
 
-.App{
+.App-container{
     min-height: 100vh;
     display: flex;
     flex-wrap: wrap;
